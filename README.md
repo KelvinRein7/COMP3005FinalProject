@@ -4,6 +4,7 @@
 Group Members: Khun Thu Rein, Daniel Samchenko
 
 SQL Files: DDL.sql, DML.sql
+
 Source code: helpers.py, members.py, admin.py, trainer.py, and program.py
 
 Instructions
