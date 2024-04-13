@@ -18,4 +18,4 @@ Instructions
 7. More details are explained in the demo video
 
 
-Video Link : [DEMO](https://youtu.be/IbNxcH--DrY)
+Video Link : [DEMO](https://youtu.be/6C3HTzLdNXY)
