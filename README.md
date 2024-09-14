@@ -1,5 +1,4 @@
-# COMP3005FinalProject
-# Health and Fitness Management CLI Application
+# Health & Fitness Management CLI Application
 
 Group Members: Khun Thu Rein, Daniel Samchenko
 
